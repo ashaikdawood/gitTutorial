@@ -1,1 +1,2 @@
 This is sample text file, the text is okay.
+Some new code changes update.
